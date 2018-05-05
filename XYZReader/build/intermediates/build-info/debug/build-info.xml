@@ -2,13 +2,13 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="FULL"
+    build-mode="HOT_WARM"
     density="xxhdpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1525525560148"
+    timestamp="1525530176219"
     token="1964400249171929327"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
@@ -18,47 +18,14 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="209" />
+        duration="0" />
     <task
         name="verifier"
         duration="0" />
 
     <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/instant-run-apk/debug/XYZReader-debug.apk"
-        type="SPLIT_MAIN" />
+        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         build-mode="FULL"
@@ -100,6 +67,39 @@
         <artifact
             location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/instant-run-apk/debug/XYZReader-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1525529336089"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1525529856170"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/instant-run-apk/debug/XYZReader-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1525530176219"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
