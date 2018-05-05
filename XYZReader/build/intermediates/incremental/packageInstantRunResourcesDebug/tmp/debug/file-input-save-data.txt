@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat May 05 14:06:01 IST 2018
+#Sat May 05 15:33:08 IST 2018
 0.baseType=DIRECTORY
 0.base=/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/assets/debug
 0.path=Rosario-Regular.ttf

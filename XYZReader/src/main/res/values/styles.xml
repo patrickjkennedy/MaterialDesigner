@@ -18,7 +18,6 @@
 <resources>
 
     <style name="Theme.Reader" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
     </style>
 
 </resources>

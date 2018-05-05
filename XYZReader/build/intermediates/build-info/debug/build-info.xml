@@ -2,39 +2,27 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="FULL"
+    build-mode="COLD"
     density="xxhdpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1525525560148"
+    timestamp="1525542125202"
     token="1964400249171929327"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="221" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="209" />
+        duration="27" />
     <task
         name="verifier"
-        duration="0" />
+        duration="4" />
 
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
     <artifact
         location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
@@ -42,19 +30,13 @@
         location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
         location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
         location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
         location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/instant-run-apk/debug/XYZReader-debug.apk"
@@ -62,31 +44,37 @@
 
     <build
         build-mode="FULL"
-        timestamp="1525525560148"
+        timestamp="1525539987287"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/instant-run-apk/debug/XYZReader-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
             location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
             location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
             location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_8.apk"
@@ -94,8 +82,25 @@
         <artifact
             location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1525542125202"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/instant-run-apk/debug/XYZReader-debug.apk"
