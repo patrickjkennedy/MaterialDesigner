@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat May 05 15:17:37 IST 2018
+#Sun May 06 17:43:18 IST 2018
 2.base=/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/transforms/dexMerger/debug/51
 5.set=DEX
 0.path=classes.dex

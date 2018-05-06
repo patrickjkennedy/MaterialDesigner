@@ -96,6 +96,10 @@
         "source": "/Users/pkennedy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/c353c92d4704a7abb00d2a1ed10255dc/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
+        "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_arrow_back_primary.png.flat",
+        "source": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back_primary.png"
+    },
+    {
         "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/Users/pkennedy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/c353c92d4704a7abb00d2a1ed10255dc/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
@@ -572,6 +576,10 @@
         "source": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
     },
     {
+        "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi_ic_arrow_back_primary.png.flat",
+        "source": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/src/main/res/drawable-xhdpi/ic_arrow_back_primary.png"
+    },
+    {
         "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
         "source": "/Users/pkennedy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/c353c92d4704a7abb00d2a1ed10255dc/res/layout/abc_screen_content_include.xml"
     },
@@ -646,6 +654,10 @@
     {
         "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/Users/pkennedy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/c353c92d4704a7abb00d2a1ed10255dc/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_arrow_back_primary.png.flat",
+        "source": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/src/main/res/drawable-xxxhdpi/ic_arrow_back_primary.png"
     },
     {
         "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
@@ -786,6 +798,10 @@
     {
         "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/pkennedy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/c353c92d4704a7abb00d2a1ed10255dc/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi_ic_arrow_back_primary.png.flat",
+        "source": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/src/main/res/drawable-hdpi/ic_arrow_back_primary.png"
     },
     {
         "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
@@ -1046,6 +1062,10 @@
     {
         "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/Users/pkennedy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/c353c92d4704a7abb00d2a1ed10255dc/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi_ic_arrow_back_primary.png.flat",
+        "source": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/src/main/res/drawable-mdpi/ic_arrow_back_primary.png"
     },
     {
         "merged": "/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",

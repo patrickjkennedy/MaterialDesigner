@@ -17,8 +17,10 @@
 
 <resources>
     <color name="photo_placeholder">#ccc</color>
-
     <color name="theme_primary">#FF0000</color>
     <color name="theme_secondary_dark">#999999</color>
     <color name="theme_secondary">#F6F6EF</color>
+    <color name="article_body">#000</color>
+    <color name="article_title">#000</color>
+    <color name="article_subtitle">#000</color>
 </resources>
