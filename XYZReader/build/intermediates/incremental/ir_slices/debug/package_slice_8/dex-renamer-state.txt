@@ -1,4 +1,0 @@
-#Sun May 06 18:02:04 IST 2018
-base.0=/Users/pkennedy/AndroidStudioProjects/MaterialDesigner/XYZReader/build/intermediates/transforms/dexMerger/debug/46
-path.0=classes.dex
-renamed.0=classes.dex
